@@ -139,7 +139,10 @@ export default function App() {
                   <p className="text-lg text-zinc-300">
                     Mas já que você caiu na minha armadilha... 😂
                   </p>
-                  <div className="bg-zinc-900/60 border border-zinc-800/80 p-5 rounded-2xl">
+                  <div className="bg-zinc-900/60 border border-zinc-800/80 p-5 rounded-2xl space-y-3">
+                    <p className="text-zinc-300 leading-relaxed">
+                      Esse é o meu <strong className="text-white">perfil profissional</strong>, focado 100% em tecnologia, desenvolvimento de sistemas e prestação de serviços. 💻
+                    </p>
                     <p className="text-zinc-300 leading-relaxed">
                       Que tal dar uma força pro meu trabalho? Não custa nem um centavo me seguir, ajuda demais a engajar minha página e o melhor: <strong className="text-emerald-400">eu ainda sigo de volta dnv kkkkk!</strong> 🤝
                     </p>
